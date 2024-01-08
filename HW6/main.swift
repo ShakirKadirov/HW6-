@@ -7,5 +7,22 @@
 
 import Foundation
 
-print("Hello, World!")
 
+// MARK: Task #1
+
+
+struct SportCar{
+    var model: String
+    var yearOfManufacture: String
+    var engineCondition: Bool
+    var windowCondition: Bool
+    var currentTrunkVolume: String
+}
+
+struct TrunkCar{
+    var model: String
+    var yearOfManufacture: String
+    var engineCondition: Bool
+    var windowCondition: Bool
+    var currentTrunkVolume: String
+}
